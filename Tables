@@ -1,23 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My HTML5 Table</title>
+	<title>Tables</title>
 </head>
 <body>
 	<table>
         <tr>
-          <th>Column 1</th>
-          <th>Column 2</th>
+          <th>Company</th>
+          <th>Contact</th>
+          <th>Country</th>
         </tr>
         <tr>
-          <td>Row 1, Column 1</td>
-          <td>Row 1, Column 2</td>
+          <td>Alfreds Futterkiste</td>
+          <td>Maria Anders</td>
+          <td>Germany</td>
         </tr>
         <tr>
-          <td>Row 2, Column 1</td>
-          <td>Row 2, Column 2</td>
+          <td>Centro comercial Moctezuma</td>
+          <td>Francisco Chang</td>
+          <td>Mexico</td>
         </tr>
       </table>
-      
+     
 </body>
 </html>
