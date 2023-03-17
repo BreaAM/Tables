@@ -10,27 +10,23 @@
 <table>
   <thead>
     <tr>
-      <th>Column 1</th>
-      <th>Column 2</th>
-      <th>Column 3</th>
+      <th>Name</th>
+      <th>Date of Birth</th>
+      <th>Email address</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Row 1, Column 1</td>
-      <td>Row 1, Column 2</td>
-      <td>Row 1, Column 3</td>
+      <td>Caden</td>
+      <td>29th Dec 1990</td>
+      <td>cadenhayes@gmail.com</td>
     </tr>
     <tr>
-      <td>Row 2, Column 1</td>
-      <td>Row 2, Column 2</td>
-      <td>Row 2, Column 3</td>
+      <td>June</td>
+      <td>12 June 2000</td>
+      <td>jeptoojune@yahoo.com</td>
     </tr>
-    <tr>
-      <td>Row 3, Column 1</td>
-      <td>Row 3, Column 2</td>
-      <td>Row 3, Column 3</td>
-    </tr>
+    
   </tbody>
 </table>
 
