@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <title>Tables</title>
 
 </head>
 <body>
 <h2>HTML Table</h2>
-
 
 <table>
   <thead>
