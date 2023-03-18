@@ -10,7 +10,7 @@
 <table>
   <thead>
     <tr>
-      <th>N</th>
+      <th>Name</th>
       <th>Date of Birth</th>
       <th>Email address</th>
     </tr>
