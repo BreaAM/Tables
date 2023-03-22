@@ -10,7 +10,18 @@
   <title>Tables</title>
 
 </head>
-<body>
+<body class="full layout">
+	<div class="content-wrapper">
+		<nav class="container">
+			<div class="navbar-inner">
+				<div class="navbar-header">
+					<div class="navbar-brand"> 
+						<a href="index.html"> <img src="img/Kawasaki.jpg"></a>
+					</div>
+				</div>
+			</div>
+		</nav>
+	</div>
 <h2>HTML Table</h2>
 
 <table>
